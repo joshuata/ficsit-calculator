@@ -1,1148 +1,1148 @@
 {
-    "recipes": [
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Adaptive Control Unit",
+      "machineID": 15,
+      "inputMaterials": [
         {
-            "id": 1,
-            "name": "Adaptive Control Unit",
-            "machineID": 15,
-            "inputMaterials": [
-                {
-                    "id": 16,
-                    "rate:": 5
-                },
-                {
-                    "id": 30,
-                    "rate:": 5
-                },
-                {
-                    "id": 34,
-                    "rate:": 2
-                },
-                {
-                    "id": 62,
-                    "rate:": 1
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 1,
-                    "rate": 1
-                }
-            ]
+          "id": 16,
+          "rate:": 5
         },
         {
-            "id": 2,
-            "name": "AI Expansion Server",
-            "machineID": 17,
-            "inputMaterials": [
-                {
-                    "id": 72,
-                    "rate:": 4
-                },
-                {
-                    "id": 79,
-                    "rate:": 4
-                },
-                {
-                    "id": 132,
-                    "rate:": 4
-                },
-                {
-                    "id": 158,
-                    "rate:": 100
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 2,
-                    "rate": 4
-                },
-                {
-                    "id": 159,
-                    "rate": 100
-                }
-            ]
+          "id": 30,
+          "rate:": 5
         },
         {
-            "id": 3,
-            "name": "Alclad Aluminum Sheet",
-            "machineID": 10,
-            "inputMaterials": [
-                {
-                    "id": 13,
-                    "rate:": 30
-                },
-                {
-                    "id": 37,
-                    "rate:": 10
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 4,
-                    "rate": 30
-                }
-            ]
+          "id": 34,
+          "rate:": 2
         },
         {
-            "id": 4,
-            "name": "Alien DNA Capsule",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 7,
-                    "rate:": 10
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 5,
-                    "rate": 10
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "name": "Alien Power Matrix",
-            "machineID": 17,
-            "inputMaterials": [
-                {
-                    "id": 104,
-                    "rate:": 7.5
-                },
-                {
-                    "id": 118,
-                    "rate:": 12.5
-                },
-                {
-                    "id": 132,
-                    "rate:": 7.5
-                },
-                {
-                    "id": 158,
-                    "rate:": 60.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 6,
-                    "rate": 2.5
-                },
-                {
-                    "id": 159,
-                    "rate": 60.0
-                }
-            ]
-        },
-        {
-            "id": 6,
-            "name": "Hatcher Protein",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 160,
-                    "rate:": 20.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 7,
-                    "rate": 20.0
-                }
-            ]
-        },
-        {
-            "id": 7,
-            "name": "Hog Protein",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 161,
-                    "rate:": 20.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 7,
-                    "rate": 20.0
-                }
-            ]
-        },
-        {
-            "id": 8,
-            "name": "Spitter Protein",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 162,
-                    "rate:": 20.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 7,
-                    "rate": 20.0
-                }
-            ]
-        },
-        {
-            "id": 9,
-            "name": "Stinger Protein",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 163,
-                    "rate:": 20.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 7,
-                    "rate": 20.0
-                }
-            ]
-        },
-        {
-            "id": 10,
-            "name": "Aluminum Casing",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 13,
-                    "rate:": 90.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 12,
-                    "rate": 60.0
-                }
-            ]
-        },
-        {
-            "id": 11,
-            "name": "Aluminum Ingot",
-            "machineID": 8,
-            "inputMaterials": [
-                {
-                    "id": 14,
-                    "rate:": 90.0
-                },
-                {
-                    "id": 120,
-                    "rate:": 75.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 13,
-                    "rate": 60.0
-                }
-            ]
-        },
-        {
-            "id": 12,
-            "name": "Aluminum Scrap",
-            "machineID": 13,
-            "inputMaterials": [
-                {
-                    "id": 31,
-                    "rate:": 120.0
-                },
-                {
-                    "id": 151,
-                    "rate:": 240.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 14,
-                    "rate": 360.0
-                },
-                {
-                    "id": 145,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 13,
-            "name": "Assembly Director System",
-            "machineID": 10,
-            "inputMaterials": [
-                {
-                    "id": 1,
-                    "rate:": 1.5
-                },
-                {
-                    "id": 131,
-                    "rate:": 0.75
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 15,
-                    "rate": 0.75
-                }
-            ]
-        },
-        {
-            "id": 14,
-            "name": "Automated Wiring",
-            "machineID": 10,
-            "inputMaterials": [
-                {
-                    "id": 27,
-                    "rate:": 50.0
-                },
-                {
-                    "id": 126,
-                    "rate:": 2.5
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 16,
-                    "rate": 2.5
-                }
-            ]
-        },
-        {
-            "id": 15,
-            "name": "Ballistic Warp Drive",
-            "machineID": 15,
-            "inputMaterials": [
-                {
-                    "id": 43,
-                    "rate:": 40.0
-                },
-                {
-                    "id": 121,
-                    "rate:": 5.0
-                },
-                {
-                    "id": 132,
-                    "rate:": 2.0
-                },
-                {
-                    "id": 133,
-                    "rate:": 1.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 18,
-                    "rate": 1.0
-                }
-            ]
-        },
-        {
-            "id": 16,
-            "name": "Battery",
-            "machineID": 11,
-            "inputMaterials": [
-                {
-                    "id": 12,
-                    "rate:": 20.0
-                },
-                {
-                    "id": 151,
-                    "rate:": 40.0
-                },
-                {
-                    "id": 152,
-                    "rate:": 50.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 19,
-                    "rate": 20.0
-                },
-                {
-                    "id": 145,
-                    "rate": 30.0
-                }
-            ]
-        },
-        {
-            "id": 17,
-            "name": "Bauxite",
-            "machineID": 1,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 20,
-                    "rate": 30.0
-                }
-            ]
-        },
-        {
-            "id": 18,
-            "name": "Bauxite",
-            "machineID": 2,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 20,
-                    "rate": 60.0
-                }
-            ]
-        },
-        {
-            "id": 19,
-            "name": "Bauxite",
-            "machineID": 3,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 20,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 20,
-            "name": "Bauxite (Caterium)",
-            "machineID": 16,
-            "inputMaterials": [
-                {
-                    "id": 29,
-                    "rate:": 150.0
-                },
-                {
-                    "id": 111,
-                    "rate:": 10.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 20,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 21,
-            "name": "Bauxite (Copper)",
-            "machineID": 16,
-            "inputMaterials": [
-                {
-                    "id": 38,
-                    "rate:": 180.0
-                },
-                {
-                    "id": 111,
-                    "rate:": 10.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 20,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 22,
-            "name": "Biochemical Sculptor",
-            "machineID": 11,
-            "inputMaterials": [
-                {
-                    "id": 15,
-                    "rate:": 0.5
-                },
-                {
-                    "id": 54,
-                    "rate:": 40.0
-                },
-                {
-                    "id": 145,
-                    "rate:": 10.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 22,
-                    "rate": 2.0
-                }
-            ]
-        },
-        {
-            "id": 23,
-            "name": "Biomass (Alien Protein)",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 7,
-                    "rate:": 15.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 23,
-                    "rate": 1500.0
-                }
-            ]
-        },
-        {
-            "id": 24,
-            "name": "Biomass (Leaves)",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 70,
-                    "rate:": 120.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 23,
-                    "rate": 60.0
-                }
-            ]
-        },
-        {
-            "id": 25,
-            "name": "Biomass (Mycelia)",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 78,
-                    "rate:": 15.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 23,
-                    "rate": 150.0
-                }
-            ]
-        },
-        {
-            "id": 26,
-            "name": "Biomass (Wood)",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 141,
-                    "rate:": 60.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 23,
-                    "rate": 300.0
-                }
-            ]
-        },
-        {
-            "id": 27,
-            "name": "Black Powder",
-            "machineID": 10,
-            "inputMaterials": [
-                {
-                    "id": 31,
-                    "rate:": 15.0
-                },
-                {
-                    "id": 130,
-                    "rate:": 15.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 24,
-                    "rate": 30.0
-                }
-            ]
-        },
-        {
-            "id": 28,
-            "name": "Blade Runners",
-            "machineID": null,
-            "inputMaterials": [
-                {
-                    "id": 76,
-                    "rate:": 3.0
-                },
-                {
-                    "id": 115,
-                    "rate:": 3.0
-                },
-                {
-                    "id": 120,
-                    "rate:": 20.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 25,
-                    "rate": 1.0
-                }
-            ]
-        },
-        {
-            "id": 29,
-            "name": "Cable",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 140,
-                    "rate:": 60.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 27,
-                    "rate": 30.0
-                }
-            ]
-        },
-        {
-            "id": 30,
-            "name": "Caterium Ingot",
-            "machineID": 9,
-            "inputMaterials": [
-                {
-                    "id": 29,
-                    "rate:": 45.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 28,
-                    "rate": 15.0
-                }
-            ]
-        },
-        {
-            "id": 32,
-            "name": "Caterium Ore",
-            "machineID": 1,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 29,
-                    "rate": 30.0
-                }
-            ]
-        },
-        {
-            "id": 33,
-            "name": "Caterium Ore",
-            "machineID": 2,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 29,
-                    "rate": 60.0
-                }
-            ]
-        },
-        {
-            "id": 34,
-            "name": "Caterium Ore",
-            "machineID": 3,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 29,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 35,
-            "name": "Caterium Ore (Copper)",
-            "machineID": 16,
-            "inputMaterials": [
-                {
-                    "id": 38,
-                    "rate:": 150.0
-                },
-                {
-                    "id": 111,
-                    "rate:": 10.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 29,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 36,
-            "name": "Caterium Ore (Quartz)",
-            "machineID": 16,
-            "inputMaterials": [
-                {
-                    "id": 110,
-                    "rate:": 120.0
-                },
-                {
-                    "id": 111,
-                    "rate:": 10.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 29,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 36,
-            "name": "Chainsaw",
-            "machineID": null,
-            "inputMaterials": [
-                {
-                    "id": 27,
-                    "rate:": 15.0
-                },
-                {
-                    "id": 68,
-                    "rate:": 25.0
-                },
-                {
-                    "id": 113,
-                    "rate:": 5.0
-                },
-                {
-                    "id": 119,
-                    "rate:": 160.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 31,
-                    "rate": 1.0
-                }
-            ]
-        },
-        {
-            "id": 37,
-            "name": "Circuit Board\t",
-            "machineID": 10,
-            "inputMaterials": [
-                {
-                    "id": 40,
-                    "rate:": 15.0
-                },
-                {
-                    "id": 99,
-                    "rate:": 30.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 30,
-                    "rate": 7.5
-                }
-            ]
-        },
-        {
-            "id": 38,
-            "name": "Coal",
-            "machineID": 1,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 32,
-                    "rate": 30.0
-                }
-            ]
-        },
-        {
-            "id": 39,
-            "name": "Coal",
-            "machineID": 2,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 32,
-                    "rate": 60.0
-                }
-            ]
-        },
-        {
-            "id": 40,
-            "name": "Coal",
-            "machineID": 3,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 32,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 41,
-            "name": "Coal (Iron)\t",
-            "machineID": 16,
-            "inputMaterials": [
-                {
-                    "id": 66,
-                    "rate:": 180.0
-                },
-                {
-                    "id": 111,
-                    "rate:": 10.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 32,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 42,
-            "name": "Coal (Limestone)\t",
-            "machineID": 16,
-            "inputMaterials": [
-                {
-                    "id": 71,
-                    "rate:": 360.0
-                },
-                {
-                    "id": 111,
-                    "rate:": 10.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 32,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 43,
-            "name": "Computer\t",
-            "machineID": 15,
-            "inputMaterials": [
-                {
-                    "id": 27,
-                    "rate:": 20.0
-                },
-                {
-                    "id": 30,
-                    "rate:": 10.0
-                },
-                {
-                    "id": 99,
-                    "rate:": 40.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 34,
-                    "rate": 2.5
-                }
-            ]
-        },
-        {
-            "id": 44,
-            "name": "Concrete\t",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 71,
-                    "rate:": 45.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 35,
-                    "rate": 15.0
-                }
-            ]
-        },
-        {
-            "id": 45,
-            "name": "Cooling System",
-            "machineID": 11,
-            "inputMaterials": [
-                {
-                    "id": 61,
-                    "rate:": 12.0
-                },
-                {
-                    "id": 116,
-                    "rate:": 12.0
-                },
-                {
-                    "id": 145,
-                    "rate:": 30.0
-                },
-                {
-                    "id": 155,
-                    "rate:": 150.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 36,
-                    "rate": 6.0
-                }
-            ]
-        },
-        {
-            "id": 46,
-            "name": "Copper Ingot",
-            "machineID": 9,
-            "inputMaterials": [
-                {
-                    "id": 38,
-                    "rate:": 30.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 37,
-                    "rate": 30.0
-                }
-            ]
-        },
-        {
-            "id": 47,
-            "name": "Copper Ore",
-            "machineID": 1,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 38,
-                    "rate": 30.0
-                }
-            ]
-        },
-        {
-            "id": 48,
-            "name": "Copper Ore",
-            "machineID": 2,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 38,
-                    "rate": 60.0
-                }
-            ]
-        },
-        {
-            "id": 49,
-            "name": "Copper Ore",
-            "machineID": 3,
-            "inputMaterials": [
-                {
-                    "id": null,
-                    "rate:": null
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 38,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 50,
-            "name": "Copper Ore (Quartz)\t",
-            "machineID": 16,
-            "inputMaterials": [
-                {
-                    "id": 110,
-                    "rate:": 100.0
-                },
-                {
-                    "id": 111,
-                    "rate:": 10.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 38,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 51,
-            "name": "Copper Ore (Sulfur)\t",
-            "machineID": 16,
-            "inputMaterials": [
-                {
-                    "id": 111,
-                    "rate:": 10.0
-                },
-                {
-                    "id": 130,
-                    "rate:": 120.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 38,
-                    "rate": 120.0
-                }
-            ]
-        },
-        {
-            "id": 52,
-            "name": "Copper Powder",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 37,
-                    "rate:": 300.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 39,
-                    "rate": 50.0
-                }
-            ]
-        },
-        {
-            "id": 53,
-            "name": "Copper Sheet",
-            "machineID": 12,
-            "inputMaterials": [
-                {
-                    "id": 37,
-                    "rate:": 20.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 40,
-                    "rate": 10.0
-                }
-            ]
-        },
-        {
-            "id": 54,
-            "name": "Crystal Oscillator",
-            "machineID": 15,
-            "inputMaterials": [
-                {
-                    "id": 27,
-                    "rate:": 14.0
-                },
-                {
-                    "id": 107,
-                    "rate:": 18.0
-                },
-                {
-                    "id": 113,
-                    "rate:": 2.5
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 41,
-                    "rate": 1.0
-                }
-            ]
-        },
-        {
-            "id": 55,
-            "name": "Dark Matter Crystal",
-            "machineID": 18,
-            "inputMaterials": [
-                {
-                    "id": 44,
-                    "rate:": 30.0
-                },
-                {
-                    "id": 159,
-                    "rate:": 150.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 43,
-                    "rate": 30.0
-                }
-            ]
-        },
-        {
-            "id": 56,
-            "name": "Diamonds",
-            "machineID": 18,
-            "inputMaterials": [
-                {
-                    "id": 32,
-                    "rate:": 600.0
-                }
-            ],
-            "outputMaterials": [
-                {
-                    "id": 44,
-                    "rate": 30.0
-                }
-            ]
+          "id": 62,
+          "rate:": 1
         }
-    ]
+      ],
+      "outputMaterials": [
+        {
+          "id": 1,
+          "rate": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "AI Expansion Server",
+      "machineID": 17,
+      "inputMaterials": [
+        {
+          "id": 72,
+          "rate:": 4
+        },
+        {
+          "id": 79,
+          "rate:": 4
+        },
+        {
+          "id": 132,
+          "rate:": 4
+        },
+        {
+          "id": 158,
+          "rate:": 100
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 2,
+          "rate": 4
+        },
+        {
+          "id": 159,
+          "rate": 100
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Alclad Aluminum Sheet",
+      "machineID": 10,
+      "inputMaterials": [
+        {
+          "id": 13,
+          "rate:": 30
+        },
+        {
+          "id": 37,
+          "rate:": 10
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 4,
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Alien DNA Capsule",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 7,
+          "rate:": 10
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 5,
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Alien Power Matrix",
+      "machineID": 17,
+      "inputMaterials": [
+        {
+          "id": 104,
+          "rate:": 7.5
+        },
+        {
+          "id": 118,
+          "rate:": 12.5
+        },
+        {
+          "id": 132,
+          "rate:": 7.5
+        },
+        {
+          "id": 158,
+          "rate:": 60.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 6,
+          "rate": 2.5
+        },
+        {
+          "id": 159,
+          "rate": 60.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hatcher Protein",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 160,
+          "rate:": 20.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 7,
+          "rate": 20.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Hog Protein",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 161,
+          "rate:": 20.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 7,
+          "rate": 20.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Spitter Protein",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 162,
+          "rate:": 20.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 7,
+          "rate": 20.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Stinger Protein",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 163,
+          "rate:": 20.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 7,
+          "rate": 20.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Aluminum Casing",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 13,
+          "rate:": 90.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 12,
+          "rate": 60.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Aluminum Ingot",
+      "machineID": 8,
+      "inputMaterials": [
+        {
+          "id": 14,
+          "rate:": 90.0
+        },
+        {
+          "id": 120,
+          "rate:": 75.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 13,
+          "rate": 60.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Aluminum Scrap",
+      "machineID": 13,
+      "inputMaterials": [
+        {
+          "id": 31,
+          "rate:": 120.0
+        },
+        {
+          "id": 151,
+          "rate:": 240.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 14,
+          "rate": 360.0
+        },
+        {
+          "id": 145,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Assembly Director System",
+      "machineID": 10,
+      "inputMaterials": [
+        {
+          "id": 1,
+          "rate:": 1.5
+        },
+        {
+          "id": 131,
+          "rate:": 0.75
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 15,
+          "rate": 0.75
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Automated Wiring",
+      "machineID": 10,
+      "inputMaterials": [
+        {
+          "id": 27,
+          "rate:": 50.0
+        },
+        {
+          "id": 126,
+          "rate:": 2.5
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 16,
+          "rate": 2.5
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Ballistic Warp Drive",
+      "machineID": 15,
+      "inputMaterials": [
+        {
+          "id": 43,
+          "rate:": 40.0
+        },
+        {
+          "id": 121,
+          "rate:": 5.0
+        },
+        {
+          "id": 132,
+          "rate:": 2.0
+        },
+        {
+          "id": 133,
+          "rate:": 1.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 18,
+          "rate": 1.0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Battery",
+      "machineID": 11,
+      "inputMaterials": [
+        {
+          "id": 12,
+          "rate:": 20.0
+        },
+        {
+          "id": 151,
+          "rate:": 40.0
+        },
+        {
+          "id": 152,
+          "rate:": 50.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 19,
+          "rate": 20.0
+        },
+        {
+          "id": 145,
+          "rate": 30.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Bauxite",
+      "machineID": 1,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 20,
+          "rate": 30.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Bauxite",
+      "machineID": 2,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 20,
+          "rate": 60.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Bauxite",
+      "machineID": 3,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 20,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Bauxite (Caterium)",
+      "machineID": 16,
+      "inputMaterials": [
+        {
+          "id": 29,
+          "rate:": 150.0
+        },
+        {
+          "id": 111,
+          "rate:": 10.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 20,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Bauxite (Copper)",
+      "machineID": 16,
+      "inputMaterials": [
+        {
+          "id": 38,
+          "rate:": 180.0
+        },
+        {
+          "id": 111,
+          "rate:": 10.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 20,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Biochemical Sculptor",
+      "machineID": 11,
+      "inputMaterials": [
+        {
+          "id": 15,
+          "rate:": 0.5
+        },
+        {
+          "id": 54,
+          "rate:": 40.0
+        },
+        {
+          "id": 145,
+          "rate:": 10.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 22,
+          "rate": 2.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Biomass (Alien Protein)",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 7,
+          "rate:": 15.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 23,
+          "rate": 1500.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Biomass (Leaves)",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 70,
+          "rate:": 120.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 23,
+          "rate": 60.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Biomass (Mycelia)",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 78,
+          "rate:": 15.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 23,
+          "rate": 150.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Biomass (Wood)",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 141,
+          "rate:": 60.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 23,
+          "rate": 300.0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Black Powder",
+      "machineID": 10,
+      "inputMaterials": [
+        {
+          "id": 31,
+          "rate:": 15.0
+        },
+        {
+          "id": 130,
+          "rate:": 15.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 24,
+          "rate": 30.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Blade Runners",
+      "machineID": null,
+      "inputMaterials": [
+        {
+          "id": 76,
+          "rate:": 3.0
+        },
+        {
+          "id": 115,
+          "rate:": 3.0
+        },
+        {
+          "id": 120,
+          "rate:": 20.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 25,
+          "rate": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Cable",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 140,
+          "rate:": 60.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 27,
+          "rate": 30.0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Caterium Ingot",
+      "machineID": 9,
+      "inputMaterials": [
+        {
+          "id": 29,
+          "rate:": 45.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 28,
+          "rate": 15.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Caterium Ore",
+      "machineID": 1,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 29,
+          "rate": 30.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Caterium Ore",
+      "machineID": 2,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 29,
+          "rate": 60.0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Caterium Ore",
+      "machineID": 3,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 29,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Caterium Ore (Copper)",
+      "machineID": 16,
+      "inputMaterials": [
+        {
+          "id": 38,
+          "rate:": 150.0
+        },
+        {
+          "id": 111,
+          "rate:": 10.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 29,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Caterium Ore (Quartz)",
+      "machineID": 16,
+      "inputMaterials": [
+        {
+          "id": 110,
+          "rate:": 120.0
+        },
+        {
+          "id": 111,
+          "rate:": 10.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 29,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Chainsaw",
+      "machineID": null,
+      "inputMaterials": [
+        {
+          "id": 27,
+          "rate:": 15.0
+        },
+        {
+          "id": 68,
+          "rate:": 25.0
+        },
+        {
+          "id": 113,
+          "rate:": 5.0
+        },
+        {
+          "id": 119,
+          "rate:": 160.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 31,
+          "rate": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Circuit Board\t",
+      "machineID": 10,
+      "inputMaterials": [
+        {
+          "id": 40,
+          "rate:": 15.0
+        },
+        {
+          "id": 99,
+          "rate:": 30.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 30,
+          "rate": 7.5
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Coal",
+      "machineID": 1,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 32,
+          "rate": 30.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Coal",
+      "machineID": 2,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 32,
+          "rate": 60.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Coal",
+      "machineID": 3,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 32,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Coal (Iron)\t",
+      "machineID": 16,
+      "inputMaterials": [
+        {
+          "id": 66,
+          "rate:": 180.0
+        },
+        {
+          "id": 111,
+          "rate:": 10.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 32,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Coal (Limestone)\t",
+      "machineID": 16,
+      "inputMaterials": [
+        {
+          "id": 71,
+          "rate:": 360.0
+        },
+        {
+          "id": 111,
+          "rate:": 10.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 32,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Computer\t",
+      "machineID": 15,
+      "inputMaterials": [
+        {
+          "id": 27,
+          "rate:": 20.0
+        },
+        {
+          "id": 30,
+          "rate:": 10.0
+        },
+        {
+          "id": 99,
+          "rate:": 40.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 34,
+          "rate": 2.5
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Concrete\t",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 71,
+          "rate:": 45.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 35,
+          "rate": 15.0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Cooling System",
+      "machineID": 11,
+      "inputMaterials": [
+        {
+          "id": 61,
+          "rate:": 12.0
+        },
+        {
+          "id": 116,
+          "rate:": 12.0
+        },
+        {
+          "id": 145,
+          "rate:": 30.0
+        },
+        {
+          "id": 155,
+          "rate:": 150.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 36,
+          "rate": 6.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Copper Ingot",
+      "machineID": 9,
+      "inputMaterials": [
+        {
+          "id": 38,
+          "rate:": 30.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 37,
+          "rate": 30.0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Copper Ore",
+      "machineID": 1,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 38,
+          "rate": 30.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Copper Ore",
+      "machineID": 2,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 38,
+          "rate": 60.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Copper Ore",
+      "machineID": 3,
+      "inputMaterials": [
+        {
+          "id": null,
+          "rate:": null
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 38,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Copper Ore (Quartz)\t",
+      "machineID": 16,
+      "inputMaterials": [
+        {
+          "id": 110,
+          "rate:": 100.0
+        },
+        {
+          "id": 111,
+          "rate:": 10.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 38,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Copper Ore (Sulfur)\t",
+      "machineID": 16,
+      "inputMaterials": [
+        {
+          "id": 111,
+          "rate:": 10.0
+        },
+        {
+          "id": 130,
+          "rate:": 120.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 38,
+          "rate": 120.0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Copper Powder",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 37,
+          "rate:": 300.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 39,
+          "rate": 50.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Copper Sheet",
+      "machineID": 12,
+      "inputMaterials": [
+        {
+          "id": 37,
+          "rate:": 20.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 40,
+          "rate": 10.0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Crystal Oscillator",
+      "machineID": 15,
+      "inputMaterials": [
+        {
+          "id": 27,
+          "rate:": 14.0
+        },
+        {
+          "id": 107,
+          "rate:": 18.0
+        },
+        {
+          "id": 113,
+          "rate:": 2.5
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 41,
+          "rate": 1.0
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Dark Matter Crystal",
+      "machineID": 18,
+      "inputMaterials": [
+        {
+          "id": 44,
+          "rate:": 30.0
+        },
+        {
+          "id": 159,
+          "rate:": 150.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 43,
+          "rate": 30.0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Diamonds",
+      "machineID": 18,
+      "inputMaterials": [
+        {
+          "id": 32,
+          "rate:": 600.0
+        }
+      ],
+      "outputMaterials": [
+        {
+          "id": 44,
+          "rate": 30.0
+        }
+      ]
+    }
+  ]
 }

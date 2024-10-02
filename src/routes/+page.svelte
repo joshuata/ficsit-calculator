@@ -1,8 +1,12 @@
 <script>
-	import ProductionCalculator from "./ProductionCalculator.svelte";
+  import ProductionCalculator from './ProductionCalculator.svelte';
 </script>
 
-<h1>Production Calculator</h1>
-<div style:height="500px">
+<div class="container">
+  <div class="row">
+    <h1>Production Calculator</h1>
+  </div>
+  <div class="row">
     <ProductionCalculator />
+  </div>
 </div>
