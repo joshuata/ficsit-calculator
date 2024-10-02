@@ -1,0 +1,1145 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Adaptive Control Unit",
+            "sinkPoints": 76368,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 2,
+            "name": "AI Expansion Server",
+            "sinkPoints": 597652,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 3,
+            "name": "AI Limiter",
+            "sinkPoints": 920,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 4,
+            "name": "Alclad Aluminum Sheet",
+            "sinkPoints": 266,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 5,
+            "name": "Alien DNA Capsule",
+            "sinkPoints": 1000,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 6,
+            "name": "Alien Power Matrix",
+            "sinkPoints": 210,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 7,
+            "name": "Alien Protein",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 8,
+            "name": "Hatcher Protein",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 9,
+            "name": "Hog Protein",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 10,
+            "name": "Spitter Protein",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 11,
+            "name": "Stinger Protein",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 12,
+            "name": "Aluminum Casing",
+            "sinkPoints": 393,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 13,
+            "name": "Aluminum Ingot",
+            "sinkPoints": 131,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 14,
+            "name": "Aluminum Scrap",
+            "sinkPoints": 27,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 15,
+            "name": "Assembly Director System",
+            "sinkPoints": 500176,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 16,
+            "name": "Automated Wiring",
+            "sinkPoints": 1440,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 17,
+            "name": "Bacon Agaric",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 18,
+            "name": "Ballistic Warp Drive",
+            "sinkPoints": 2895334,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 19,
+            "name": "Battery",
+            "sinkPoints": 465,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 20,
+            "name": "Bauxite",
+            "sinkPoints": 8,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 21,
+            "name": "Beryl Nut",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 22,
+            "name": "Biochemical Sculptor",
+            "sinkPoints": 301778,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 23,
+            "name": "Biomass",
+            "sinkPoints": 12,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 24,
+            "name": "Black Powder",
+            "sinkPoints": 14,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 25,
+            "name": "Blade Runners",
+            "sinkPoints": 4088,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 26,
+            "name": "Boom Box",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 27,
+            "name": "Cable",
+            "sinkPoints": 24,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 28,
+            "name": "Caterium Ingot",
+            "sinkPoints": 42,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 29,
+            "name": "Caterium Ore",
+            "sinkPoints": 7,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 30,
+            "name": "Circuit Board",
+            "sinkPoints": 696,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 31,
+            "name": "Chainsaw",
+            "sinkPoints": 2760,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 32,
+            "name": "Coal",
+            "sinkPoints": 3,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 33,
+            "name": "Compacted Coal",
+            "sinkPoints": 28,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 34,
+            "name": "Computer",
+            "sinkPoints": 8352,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 35,
+            "name": "Concrete",
+            "sinkPoints": 12,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 36,
+            "name": "Cooling System",
+            "sinkPoints": 12006,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 37,
+            "name": "Copper Ingot",
+            "sinkPoints": 6,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 38,
+            "name": "Copper Ore",
+            "sinkPoints": 3,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 39,
+            "name": "Copper Powder",
+            "sinkPoints": 72,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 40,
+            "name": "Copper Sheet",
+            "sinkPoints": 24,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 41,
+            "name": "Crystal Oscillator",
+            "sinkPoints": 3072,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 42,
+            "name": "Cup",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 43,
+            "name": "Dark Matter Crystal",
+            "sinkPoints": 1780,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 44,
+            "name": "Diamonds",
+            "sinkPoints": 240,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 45,
+            "name": "Electromagnetic Control Rod",
+            "sinkPoints": 2560,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 46,
+            "name": "Empty Canister",
+            "sinkPoints": 60,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 47,
+            "name": "Empty Fluid Tank",
+            "sinkPoints": 170,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 48,
+            "name": "Encased Industrial Beam",
+            "sinkPoints": 528,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 49,
+            "name": "Encased Plutonium Cell",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 50,
+            "name": "Encased Uranium Cell",
+            "sinkPoints": 147,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 51,
+            "name": "Fabric",
+            "sinkPoints": 140,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 52,
+            "name": "FICSIT Coupon",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 53,
+            "name": "Ficsite Ingot",
+            "sinkPoints": 1936,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 54,
+            "name": "Ficsite Trigon",
+            "sinkPoints": 1291,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 55,
+            "name": "Ficsonium",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 56,
+            "name": "Ficsonium Fuel Rod",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 57,
+            "name": "Fused Modular Frame",
+            "sinkPoints": 62840,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 58,
+            "name": "Gas Mask",
+            "sinkPoints": 14960,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 59,
+            "name": "Hard Drive",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 60,
+            "name": "Hazmat Suit",
+            "sinkPoints": 54100,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 61,
+            "name": "Heat Sink",
+            "sinkPoints": 2804,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 62,
+            "name": "Heavy Modular Frame",
+            "sinkPoints": 10800,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 63,
+            "name": "High-Speed Connector",
+            "sinkPoints": 3776,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 64,
+            "name": "Hoverpack",
+            "sinkPoints": 265632,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 65,
+            "name": "Iron Ingot",
+            "sinkPoints": 2,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 66,
+            "name": "Iron Ore",
+            "sinkPoints": 1,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 67,
+            "name": "Iron Plate",
+            "sinkPoints": 6,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 68,
+            "name": "Iron Rod",
+            "sinkPoints": 4,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 69,
+            "name": "Jetpack",
+            "sinkPoints": 16580,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 70,
+            "name": "Leaves",
+            "sinkPoints": 3,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 71,
+            "name": "Limestone",
+            "sinkPoints": 2,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 72,
+            "name": "Magnetic Field Generator",
+            "sinkPoints": 11000,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 73,
+            "name": "Medicinal Inhaler",
+            "sinkPoints": 125,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 74,
+            "name": "Mercer Sphere",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 75,
+            "name": "Modular Engine",
+            "sinkPoints": 9960,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 76,
+            "name": "Modular Frame",
+            "sinkPoints": 408,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 77,
+            "name": "Motor",
+            "sinkPoints": 1520,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 78,
+            "name": "Mycelia",
+            "sinkPoints": 10,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 79,
+            "name": "Neural-Quantum Processor",
+            "sinkPoints": 248034,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 80,
+            "name": "Nobelisk Detonator",
+            "sinkPoints": 6480,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 81,
+            "name": "Non-Fissile Uranium",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 82,
+            "name": "Nuclear Pasta",
+            "sinkPoints": 538976,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 83,
+            "name": "Object Scanner",
+            "sinkPoints": 1400,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 84,
+            "name": "Packaged Alumina Solution",
+            "sinkPoints": 160,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 85,
+            "name": "Packaged Fuel",
+            "sinkPoints": 270,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 86,
+            "name": "Packaged Heavy Oil Residue",
+            "sinkPoints": 180,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 87,
+            "name": "Packaged Ionized Fuel",
+            "sinkPoints": 5246,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 88,
+            "name": "Packaged Liquid Biofuel",
+            "sinkPoints": 370,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 89,
+            "name": "Packaged Nitric Acid",
+            "sinkPoints": 412,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 90,
+            "name": "Packaged Nitrogen Gas",
+            "sinkPoints": 312,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 91,
+            "name": "Packaged Oil",
+            "sinkPoints": 180,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 92,
+            "name": "Packaged Rocket Fuel",
+            "sinkPoints": 1028,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 93,
+            "name": "Packaged Sulfuric Acid",
+            "sinkPoints": 152,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 94,
+            "name": "Packaged Turbofuel",
+            "sinkPoints": 570,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 95,
+            "name": "Packaged Water",
+            "sinkPoints": 130,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 96,
+            "name": "Paleberry",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 97,
+            "name": "Parachute",
+            "sinkPoints": 6080,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 98,
+            "name": "Petroleum Coke",
+            "sinkPoints": 20,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 99,
+            "name": "Plastic",
+            "sinkPoints": 75,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 100,
+            "name": "Plutonium Fuel Rod",
+            "sinkPoints": 153184,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 101,
+            "name": "Plutonium Pellet",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 102,
+            "name": "Plutonium Waste",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 103,
+            "name": "Polymer Resin",
+            "sinkPoints": 12,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 104,
+            "name": "Power Shard",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 105,
+            "name": "Power Slug",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 106,
+            "name": "Pressure Conversion Cube",
+            "sinkPoints": 255088,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 107,
+            "name": "Quartz Crystal",
+            "sinkPoints": 50,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 108,
+            "name": "Quickwire",
+            "sinkPoints": 17,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 109,
+            "name": "Radio Control Unit",
+            "sinkPoints": 32352,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 110,
+            "name": "Raw Quartz",
+            "sinkPoints": 15,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 111,
+            "name": "Reanimated SAM",
+            "sinkPoints": 160,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 112,
+            "name": "Rebar Gun",
+            "sinkPoints": 1968,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 113,
+            "name": "Reinforced Iron Plate",
+            "sinkPoints": 120,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 114,
+            "name": "Rifle",
+            "sinkPoints": 9480,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 115,
+            "name": "Rotor",
+            "sinkPoints": 140,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 116,
+            "name": "Rubber",
+            "sinkPoints": 60,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 117,
+            "name": "SAM",
+            "sinkPoints": 20,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 118,
+            "name": "SAM Fluctuator",
+            "sinkPoints": 1968,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 119,
+            "name": "Screw",
+            "sinkPoints": 2,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 120,
+            "name": "Silica",
+            "sinkPoints": 20,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 121,
+            "name": "Singularity Cell",
+            "sinkPoints": 114675,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 122,
+            "name": "Smart Plating",
+            "sinkPoints": 520,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 123,
+            "name": "Smokeless Powder",
+            "sinkPoints": 58,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 124,
+            "name": "Solid Biofuel",
+            "sinkPoints": 48,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 125,
+            "name": "Somersloop",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 126,
+            "name": "Stator",
+            "sinkPoints": 240,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 127,
+            "name": "Steel Beam",
+            "sinkPoints": 64,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 128,
+            "name": "Steel Ingot",
+            "sinkPoints": 8,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 129,
+            "name": "Steel Pipe",
+            "sinkPoints": 24,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 130,
+            "name": "Sulfur",
+            "sinkPoints": 11,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 131,
+            "name": "Supercomputer",
+            "sinkPoints": 97352,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 132,
+            "name": "Superposition Oscillator",
+            "sinkPoints": 37292,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 133,
+            "name": "Thermal Propulsion Rocket",
+            "sinkPoints": 728508,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 134,
+            "name": "Time Crystal",
+            "sinkPoints": 960,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 135,
+            "name": "Turbo Motor",
+            "sinkPoints": 240496,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 136,
+            "name": "Uranium",
+            "sinkPoints": 35,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 137,
+            "name": "Uranium Fuel Rod",
+            "sinkPoints": 43468,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 138,
+            "name": "Uranium Waste",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 139,
+            "name": "Versatile Framework",
+            "sinkPoints": 1176,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 140,
+            "name": "Wire",
+            "sinkPoints": 6,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 141,
+            "name": "Wood",
+            "sinkPoints": 30,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 142,
+            "name": "Xeno-Basher",
+            "sinkPoints": 17800,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 143,
+            "name": "Xeno-Zapper",
+            "sinkPoints": 1880,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 144,
+            "name": "Zipline",
+            "sinkPoints": 5284,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 145,
+            "name": "Water",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 146,
+            "name": "Crude Oil",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 147,
+            "name": "Heavy Oil Residue",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 148,
+            "name": "Fuel",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 149,
+            "name": "Turbofuel",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 150,
+            "name": "Liquid Biofuel",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 151,
+            "name": "Alumina Solution",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 152,
+            "name": "Sulfuric Acid",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 153,
+            "name": "Dissolved Silica",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 154,
+            "name": "Rocket Fuel",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 155,
+            "name": "Nitrogen Gas",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 156,
+            "name": "Nitric Acid",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 157,
+            "name": "Ionized Fuel",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 158,
+            "name": "Excited Photonic Matter",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 159,
+            "name": "Dark Matter Residue",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 160,
+            "name": "Hatcher Remains",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 161,
+            "name": "Hog Remains",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 162,
+            "name": "Spitter Remains",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        },
+        {
+            "id": 163,
+            "name": "Stinger Remains",
+            "sinkPoints": null,
+            "recipes": [],
+            "alternativeRecipes": []
+        }
+    ]
+}
